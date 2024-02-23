@@ -8,7 +8,7 @@ import "slick-carousel/slick/slick-theme.css";
 // import "./HeadlineCards.module.css";
 
 const HeadlineCards1 = () => {
-  const phoneNumber = '+917069711207'; // Replace with the actual WhatsApp number
+  const phoneNumber = '+919925879885'; // Replace with the actual WhatsApp number
 
   const sliderSettings = {
     dots: true,
