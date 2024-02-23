@@ -80,22 +80,22 @@ const HeadlineCards1 = () => {
       <Slider {...sliderSettings}>
         <div>
           {/* You can add your slider images here */}
-          <Image src="s1.jpg" width={1280} height={720}  alt="Slider Image " />
+          <Image src="/s1.jpg" width={1280} height={720}  alt="Slider Image " />
         </div>
         <div>
-          <Image src="s2.jpg" width={1280} height={720} alt="Slider Image " />
+          <Image src="/s2.jpg" width={1280} height={720} alt="Slider Image " />
         </div>
         <div>
-          <Image src="s3.jpg" width={1280} height={720} alt="Slider Image " />
+          <Image src="/s3.jpg" width={1280} height={720} alt="Slider Image " />
         </div>
         <div>
-          <Image src="s4.jpg" width={1280} height={600} alt="Slider Image " />
+          <Image src="/s4.jpg" width={1280} height={600} alt="Slider Image " />
         </div>
         <div>
-          <Image src="s5.jpg" width={1280} height={720} alt="Slider Image " />
+          <Image src="/s5.jpg" width={1280} height={720} alt="Slider Image " />
         </div>
         <div>
-          <Image src="s6.jpg" width={1280} height={720} alt="Slider Image " />
+          <Image src="/s6.jpg" width={1280} height={720} alt="Slider Image " />
         </div>
         {/* Add more slider items as needed */}
       </Slider>
