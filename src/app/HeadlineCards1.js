@@ -27,20 +27,20 @@ const HeadlineCards1 = () => {
       title: "Bhavyaraj Residency, Palanpur",
       description: "2BHK Flat",
       url:"/bhavyaraj.jpg",
-      doc: "/brosure/FLorida.pdf",
+      doc: "https://drive.google.com/file/d/1O78Akl5A-PMbwkL_zlHaKPwMeu-GFchO/view?usp=drive_link",
     },
     {
       title: "Florida, Palanpur",
       description: "3BHK Flat",
       url:"/florida.jpg",
-      doc: "/brosure/FLorida.pdf",
+      doc: "https://drive.google.com/file/d/11M4J2tujegQAWkOdHZ7pTYPVWzvXOde_/view?usp=drive_link",
     },
     
     {
       title:"Orchid Fantasia, Palanpur",
       description: "2BHK and 3BHK",
       url:"/bhavyaraj.jpg",
-      doc: "/brosure/FLorida.pdf",
+      doc: "https://drive.google.com/file/d/1xwrL2Lyfk_n8YTKmzZgTJyhCCbAxFonq/view?usp=drive_link",
     },
    
   ];
