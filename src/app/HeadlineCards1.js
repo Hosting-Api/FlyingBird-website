@@ -24,20 +24,20 @@ const HeadlineCards1 = () => {
   const menuItem = [
     // Your menu items...
     {
-      title: "Bhavyaraj Residency, Palanpur",
+      title: "Bhavyaraj Residency, Gauravpath",
       description: "2BHK Flat",
       url:"/bhavyaraj.jpg",
       doc: "https://drive.google.com/file/d/1O78Akl5A-PMbwkL_zlHaKPwMeu-GFchO/view?usp=drive_link",
     },
     {
-      title: "Florida, Palanpur",
+      title: "Florida, Gauravpath",
       description: "3BHK Flat",
       url:"/florida.jpg",
       doc: "https://drive.google.com/file/d/11M4J2tujegQAWkOdHZ7pTYPVWzvXOde_/view?usp=drive_link",
     },
     
     {
-      title:"Orchid Fantasia, Palanpur",
+      title:"Orchid Fantasia, Gauravpath",
       description: "2BHK and 3BHK",
       url:"/bhavyaraj.jpg",
       doc: "https://drive.google.com/file/d/1xwrL2Lyfk_n8YTKmzZgTJyhCCbAxFonq/view?usp=drive_link",
