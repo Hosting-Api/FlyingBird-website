@@ -39,7 +39,7 @@ const HeadlineCards1 = () => {
     {
       title:"Orchid Fantasia, Gauravpath",
       description: "2BHK and 3BHK",
-      url:"/bhavyaraj.jpg",
+      url:"/orchid.jpg",
       doc: "https://drive.google.com/file/d/1xwrL2Lyfk_n8YTKmzZgTJyhCCbAxFonq/view?usp=drive_link",
     },
    
